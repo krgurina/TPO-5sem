@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\уник\\T\\git-demo\\Lab9\\Lab9\\Lab9.csproj": {}
+    "E:\\уник\\T\\git-demo\\lab9\\Lab9\\Lab9.csproj": {}
   },
   "projects": {
-    "E:\\уник\\T\\git-demo\\Lab9\\Lab9\\Lab9.csproj": {
+    "E:\\уник\\T\\git-demo\\lab9\\Lab9\\Lab9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\уник\\T\\git-demo\\Lab9\\Lab9\\Lab9.csproj",
+        "projectUniqueName": "E:\\уник\\T\\git-demo\\lab9\\Lab9\\Lab9.csproj",
         "projectName": "Lab9",
-        "projectPath": "E:\\уник\\T\\git-demo\\Lab9\\Lab9\\Lab9.csproj",
+        "projectPath": "E:\\уник\\T\\git-demo\\lab9\\Lab9\\Lab9.csproj",
         "packagesPath": "C:\\Users\\XE\\.nuget\\packages\\",
-        "outputPath": "E:\\уник\\T\\git-demo\\Lab9\\Lab9\\obj\\",
+        "outputPath": "E:\\уник\\T\\git-demo\\lab9\\Lab9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XE\\AppData\\Roaming\\NuGet\\NuGet.Config",
