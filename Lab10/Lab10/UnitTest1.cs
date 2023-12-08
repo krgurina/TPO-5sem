@@ -99,13 +99,7 @@ namespace Lab9
         [SetUp]
         public void Setup()
         {
-            var options = new FirefoxOptions();
-            options.BrowserExecutableLocation = @"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\firefox.exe"; // ”кажите путь к вашему исполн€емому файлу Firefox
-
-            driver = new FirefoxDriver(options);
-
-
-            //driver = new FirefoxDriver();
+            driver = new FirefoxDriver();
             verificationErrors = new StringBuilder();
         }
 
