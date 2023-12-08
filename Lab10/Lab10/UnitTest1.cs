@@ -3,6 +3,7 @@ using OpenQA.Selenium.Firefox;
 using NUnit.Framework;
 using System;
 using System.Text;
+using OpenQA.Selenium.Chrome;
 
 namespace Lab9
 {
@@ -98,7 +99,13 @@ namespace Lab9
         [SetUp]
         public void Setup()
         {
-            driver = new FirefoxDriver();
+            var options = new FirefoxOptions();
+            options.BrowserExecutableLocation = @"C:\ProgramData\Microsoft\Windows\Start Menu\Programs\firefox.exe"; // ”кажите путь к вашему исполн€емому файлу Firefox
+
+            driver = new FirefoxDriver(options);
+
+
+            //driver = new FirefoxDriver();
             verificationErrors = new StringBuilder();
         }
 
