@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PasteBinTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceed2b777800ec472de194d313b149a01d8f4c27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("PasteBinTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PasteBinTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj": {}
+    "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj": {}
   },
   "projects": {
-    "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj": {
+    "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj",
+        "projectUniqueName": "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj",
         "projectName": "GoogleCloud",
-        "projectPath": "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj",
+        "projectPath": "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\GoogleCloudTests\\GoogleCloud.csproj",
         "packagesPath": "C:\\Users\\XE\\.nuget\\packages\\",
-        "outputPath": "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\GoogleCloudTests\\obj\\",
+        "outputPath": "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\GoogleCloudTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\XE\\AppData\\Roaming\\NuGet\\NuGet.Config",

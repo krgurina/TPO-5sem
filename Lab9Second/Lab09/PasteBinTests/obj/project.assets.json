@@ -1233,11 +1233,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\PasteBinTests\\PasteBinTests.csproj",
+      "projectUniqueName": "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\PasteBinTests\\PasteBinTests.csproj",
       "projectName": "PasteBinTests",
-      "projectPath": "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\PasteBinTests\\PasteBinTests.csproj",
+      "projectPath": "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\PasteBinTests\\PasteBinTests.csproj",
       "packagesPath": "C:\\Users\\XE\\.nuget\\packages\\",
-      "outputPath": "E:\\уник\\T\\git-demo\\Lab09\\Lab09\\PasteBinTests\\obj\\",
+      "outputPath": "E:\\уник\\T\\git-demo\\Lab9Second\\Lab09\\PasteBinTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\XE\\AppData\\Roaming\\NuGet\\NuGet.Config",
