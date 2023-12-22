@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iO0O6D2Ucf8nNRAVqWa6eY9B/Bd735lrvEv0LBCR4uhSwe1jtSlnU4bTosjJaIIl/vEBVbFNpRDERZnE/4FgmQ==",
+  "dgSpecHash": "hFvye3h/drsibTORVQdywLJosmGb+XB6sXDBnyTDuYf6eFg9kqKodwA+mumPCQeaYmBT5+sfr8G4/sGcdIU7cA==",
   "success": true,
   "projectFilePath": "E:\\уник\\T\\git-demo\\Lab10\\Lab10\\Lab10.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\XE\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\XE\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\XE\\.nuget\\packages\\nunit.analyzers\\3.6.1\\nunit.analyzers.3.6.1.nupkg.sha512",
+    "C:\\Users\\XE\\.nuget\\packages\\nunit.consolerunner\\3.16.3\\nunit.consolerunner.3.16.3.nupkg.sha512",
     "C:\\Users\\XE\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512",
     "C:\\Users\\XE\\.nuget\\packages\\selenium.webdriver\\4.15.0\\selenium.webdriver.4.15.0.nupkg.sha512",
     "C:\\Users\\XE\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
