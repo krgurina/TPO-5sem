@@ -27,8 +27,13 @@ namespace Lab11_12.Steps
         public void InitBrowser()
         {
             driver = Driver.DriverInstance.GetInstance();
+            MaximizeBrowserWindow();
         }
 
+        private void MaximizeBrowserWindow()
+        {
+            driver.Manage().Window.Maximize();
+        }
         public void CloseBrowser()
         {
             Driver.DriverInstance.CloseBrowser();
